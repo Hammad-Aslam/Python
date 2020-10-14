@@ -1,1 +1,1 @@
-ABC
+Some text is added is third.txt
